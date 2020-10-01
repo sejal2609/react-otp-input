@@ -178,8 +178,8 @@ npm run docs:prod
 - [x] Add flowtypes
 - [x] Add ESLint, Prettier for code quality
 - [x] Add styling support for states including focus/disabled
-- [ ] Travis CI, Codecov
-- [ ] Write tests
+- [ ] Travis CI, Codecov.
+- [ ] Write tests.
 
 ## Contributing
 
